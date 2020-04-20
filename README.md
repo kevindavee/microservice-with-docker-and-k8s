@@ -1,4 +1,4 @@
-# Kevin Dave's Docker and Kubernetes Course Example Project
+# Microservice with Docker and Kubernetes
 
 Creating a sample microservice architecture using two types of implementation. The first one is using Docker only and the second one is using Kubernetes
 
